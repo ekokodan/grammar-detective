@@ -1,0 +1,7 @@
+{
+  "name": "The Grammar Detective",
+  "description": "A noir-themed mystery game where students solve crimes by correcting broken French grammar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
